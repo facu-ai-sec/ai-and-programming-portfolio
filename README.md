@@ -1,4 +1,4 @@
-# Programming & AI Portfolio
+# AI & Programming Portfolio
 
 ---
 
