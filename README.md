@@ -52,4 +52,4 @@ More projects and experiments will continue to be added over time.
 
 ## Contact
 
-If you would like to know more about any project, feel free to reach out.
+If you would like to know more about any project, feel free to reach out. LinkedIn: www.linkedin.com/in/facundo-pardo-662b9039a
