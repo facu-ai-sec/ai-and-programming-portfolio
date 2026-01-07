@@ -1,4 +1,4 @@
-# AI & Cybersecurity Portfolio
+# Programming & AI Portfolio
 
 ---
 
