@@ -7,19 +7,7 @@ This project analyzes password security using two fundamentally different approa
 
 The purpose of the project is to compare deterministic security rules with a data-driven approach.
 
-## Project Structure
 
-password-security-analyzer/
-├── rule_based/
-│   ├── password_audit.py
-│   └── common_passwords.txt
-├── ml_based/
-│   ├── train.py
-│   ├── predict.py
-│   ├── model.py
-│   └── dataset.csv
-├── README.md
-└── requirements.txt
 
 ## Rule-Based Password Audit
 
@@ -62,3 +50,4 @@ This project was created for educational and portfolio purposes, focusing on Pyt
 ## Disclaimer
 
 This project is intended for learning and demonstration only. It should not be used as a standalone security solution in production environments.
+
