@@ -48,8 +48,3 @@ The long-term goal is to pursue higher education abroad and contribute to the de
 
 More projects and experiments will continue to be added over time.
 
----
-
-## Contact
-
-If you would like to know more about any project, feel free to reach out. 
